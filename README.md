@@ -19,7 +19,6 @@ Fundamental mathematical and computational concepts used throughout scientific c
 More topics will be added as the repository develops.
 
 ## Learning Pipeline
-
 ```text
 Mathematical Foundations
         ↓
@@ -38,8 +37,8 @@ Numerical Simulation
 Scientific Machine Learning
         ↓
 Earth System Applications
-
-Current Topics
+```
+## Current Topics
 
 * Mathematical modelling
 * Taylor series
@@ -48,7 +47,7 @@ Current Topics
 * Numerical methods
 * Scientific Python
 
-Tools
+## Tools
 
 * Python
 * NumPy
@@ -56,11 +55,8 @@ Tools
 * Jupyter Notebook
 * Git
 
-Motivation
+## Motivation
 
 My academic background is in physics, and I am currently studying computational science with a focus on Earth system science.
 
 This repository serves as a structured record of my development in scientific computing, from mathematical foundations to numerical simulation and scientific machine learning.
-
-```bash
-git status
