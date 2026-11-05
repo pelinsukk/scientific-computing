@@ -1,8 +1,11 @@
-# Scientific Computing
+# MSc Study Portfolio
 
-Independent study notes and reproducible Python experiments for Simulation and Modelling 2. This is a personal study project, not an official course repository.
+A personal index of MSc coursework, study notes, and reproducible experiments. Each course lives on its own branch so its notebooks, setup instructions, and references can be used together.
 
-- [Course overview and setup](https://github.com/pelinsukk/scientific-computing/tree/codex/simmod2-course#readme)
-- [Foundations notebooks](https://github.com/pelinsukk/scientific-computing/tree/codex/simmod2-course/01_Foundations)
+| Course | Materials |
+|---|---|
+| Simulation and Modelling 2 (SIMMOD2) | [Course overview, notebooks, and exercises](https://github.com/pelinsukk/scientific-computing/tree/codex/simmod2-course#readme) |
 
-Repository code is available under the [MIT licence](LICENSE).
+Other MSc courses will be added individually as their materials are ready. This is an independent study portfolio.
+
+Code licence: [MIT](LICENSE).
