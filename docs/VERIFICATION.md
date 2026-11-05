@@ -46,6 +46,6 @@ All **21 notebooks** ran in fresh kernels; all numerical assertions passed. The 
 
 These are numerical verification cases for the stated models and grids, not validation against field observations.
 
-## Branch consolidation
+## Final publication check
 
-Validated the 14 notebooks that gained further practice. Their original cells were unchanged. The seven added experiments ran in separate Python namespaces with the non-interactive Matplotlib backend; all assertions passed. The earlier full notebook run above remains the baseline for the original cells. Student completion is not tracked here.
+After consolidation, all 21 notebooks ran again in fresh kernels, including the seven additional experiments. All assertions passed. The 17 standalone PNGs were reproduced byte for byte, and all 157 local links in that revision resolved. The seven notebooks with added experiments were then rerun to save their additional inline outputs for GitHub; the original cell sources and existing outputs were preserved.

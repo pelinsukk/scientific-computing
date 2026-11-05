@@ -1,6 +1,8 @@
 # Simulation and Modelling 2 | Personal Study Notes
 
-Independent study notes and reproducible experiments for Simulation and Modelling 2 (SIMMOD2). Start with the original foundations, then use numerical experiments to connect mathematical models to ODEs, PDEs and fluid transport.
+Independent study notes and reproducible experiments for Simulation and Modelling 2 (SIMMOD2). I organized this repository around the course lecture notes and introductory slides, using them to guide the sequence of topics and develop accompanying explanations and experiments. See the [source map](docs/SOURCES.md) for attribution and page references.
+
+Start with the original foundations, then use numerical experiments to connect mathematical models to ODEs, PDEs and fluid transport.
 
 [MSc study portfolio](https://github.com/pelinsukk/scientific-computing/tree/main#readme)
 
