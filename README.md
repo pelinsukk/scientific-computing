@@ -1,6 +1,8 @@
-# Scientific Computing | Simulation and Modelling 2
+# Simulation and Modelling 2 | Personal Study Notes
 
-A practical study companion to Nikki Vercauteren’s Simulation and Modelling 2 lectures at the University of Cologne. Start with the original foundations, then use numerical experiments to connect mathematical models to ODEs, PDEs and fluid transport.
+Independent study notes and reproducible experiments for Simulation and Modelling 2 (SIMMOD2). Start with the original foundations, then use numerical experiments to connect mathematical models to ODEs, PDEs and fluid transport.
+
+[MSc study portfolio](https://github.com/pelinsukk/scientific-computing/tree/main#readme)
 
 **Start here:** [Learning path](#learning-path) · [Set up and run](#run-locally) · [Source coverage](docs/SOURCES.md) · [Figure gallery](docs/FIGURES.md) · [Implementation prompt](docs/IMPLEMENTATION_PROMPT.md)
 
@@ -32,7 +34,11 @@ python -m pip install -r requirements.txt
 python scripts/verify_notebooks.py
 ```
 
-Open any notebook in VS Code or Jupyter and choose the project environment. Run the cells from the top. The verification command uses a fresh Python kernel per notebook and regenerates the figures. Add `--write` to save refreshed inline outputs. No data downloads or network access are needed after installing dependencies.
+Open any notebook in VS Code or Jupyter and choose the project environment. For a browser-based editor, install JupyterLab separately with `python -m pip install "jupyterlab>=4,<5"` and start it with `python -m jupyterlab`. Run the cells from the top. The verification command uses a fresh Python kernel per notebook and regenerates the figures. Add `--write` to save refreshed inline outputs. No data downloads or network access are needed after installing dependencies.
+
+## Study workflow
+
+Read the model and predict the outcome before running it. Record your prediction, observation, and explanation. A passing assertion verifies that example; record your own exercise answers and conclusions separately.
 
 ## Scope
 

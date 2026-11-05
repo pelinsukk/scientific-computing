@@ -45,3 +45,7 @@ All **21 notebooks** ran in fresh kernels; all numerical assertions passed. The 
 | [10_Characteristics/02_burgers.ipynb](../10_Characteristics/02_burgers.ipynb) | PASS |
 
 These are numerical verification cases for the stated models and grids, not validation against field observations.
+
+## Branch consolidation
+
+Validated the 14 notebooks that gained further practice. Their original cells were unchanged. The seven added experiments ran in separate Python namespaces with the non-interactive Matplotlib backend; all assertions passed. The earlier full notebook run above remains the baseline for the original cells. Student completion is not tracked here.
